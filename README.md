@@ -4,5 +4,5 @@ Inspired of a launcher project I created back in 2021/2022 that I had designed i
 
 Copyright © 2026 LukeW-Developer
 
-This repository is provided for viewing and and portfolio purposes only.
+This repository is provided for viewing and portfolio purposes only.
 You may not copy, redistribute, modify, or use this code in other projects without explicit permission.
